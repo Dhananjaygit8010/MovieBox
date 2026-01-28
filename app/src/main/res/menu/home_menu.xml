@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/homeMenuMyProfile"
+        android:title="My Profile"
+        android:icon="@drawable/icon_profile"
+        app:showAsAction="always"
+        tools:ignore="DuplicateIds" />
+
+    <item
+        android:id="@+id/homeMenuLocation"
+        android:title="Location"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/homeMenuSetting"
+        android:title="Setting"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/homeMenuContactUs"
+        android:title="Contact Us"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/homeMenuAboutUs"
+        android:title="About Us"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/homeMenuLogout"
+        android:title="Logout"
+        app:showAsAction="never"
+        tools:ignore="DuplicateIds" />
+
+</menu>

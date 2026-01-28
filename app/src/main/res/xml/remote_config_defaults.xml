@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>splash_logo_url</key>
+        <value></value>
+    </entry>
+    <entry>
+        <key>special_button_visible</key>
+        <value>false</value>
+    </entry>
+</defaultsMap>

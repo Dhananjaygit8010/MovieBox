@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Main App Color -->
+    <color name="light_blue">#0F9ED0</color>
+
+    <!-- Bottom Navigation Colors -->
+    <color name="nav_bg">#0F9ED0</color>
+    <color name="nav_selected_bg">#FFFFFF</color>
+    <color name="nav_selected_color">#0F9ED0</color>
+    <color name="nav_unselected_color">#FFFFFF</color>
+
+</resources>
