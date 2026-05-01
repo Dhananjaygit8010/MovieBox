@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
-
+//d commit 
 import com.example.moviebox.R;
 
 public class AboutUsActivity extends AppCompatActivity {
