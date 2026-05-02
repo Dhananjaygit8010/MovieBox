@@ -9,7 +9,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 //d commit 
 import com.example.moviebox.R;
-
+// dd d Edi 
 public class AboutUsActivity extends AppCompatActivity {
 
     @Override
