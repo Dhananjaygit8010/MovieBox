@@ -1,5 +1,4 @@
 package com.example.moviebox.Activity;
-// dd co
 import android.os.Bundle;
 //dail 2 commit 
 import androidx.activity.EdgeToEdge;
