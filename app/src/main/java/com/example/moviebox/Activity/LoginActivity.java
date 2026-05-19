@@ -26,7 +26,7 @@ public class LoginActivity extends AppCompatActivity {
     ImageView ivSplashLogo;
     TextView tvSplashTitle, tvLoginRegister, tvLoginTitle;
     EditText etLoginUsername, etLoginPassword;
-    Button btnLogin;
+    Button btnLogin, sample;
     CardView cardView;
 
     SharedPreferences sp;
