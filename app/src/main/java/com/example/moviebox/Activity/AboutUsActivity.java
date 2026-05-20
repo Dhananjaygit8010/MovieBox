@@ -1,6 +1,6 @@
 package com.example.moviebox.Activity;
 import android.os.Bundle;
-//dd commit and saving 
+//dd commit and 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
