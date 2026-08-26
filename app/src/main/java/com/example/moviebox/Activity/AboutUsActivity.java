@@ -1,6 +1,6 @@
 package com.example.moviebox.Activity;
 import android.os.Bundle;
-// jh
+// j
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
